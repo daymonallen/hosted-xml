@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<paintings>
+	<painting>
+		<title>First title</title>
+		<artist>First Artist</artist>
+		<price>111</price>
+	</painting>
+	<painting>
+		<title>Second title</title>
+		<artist>Second Artist</artist>
+		<price>222</price>
+		<time>twentytwo thirty</time>
+	</painting>
+	<painting>
+		<title>Third title</title>
+		<artist>Third Artist</artist>
+		<price>333</price>
+	</painting>
+</paintings>
