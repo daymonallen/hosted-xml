@@ -1,19 +1,6 @@
 <?xml version="1.0"?>
-<paintings>
-	<painting>
-		<title>First title</title>
-		<artist>First Artist</artist>
-		<price>111</price>
-	</painting>
-	<painting>
-		<title>Second title</title>
-		<artist>Second Artist</artist>
-		<price>222</price>
-		<time>twentytwo thirty</time>
-	</painting>
-	<painting>
-		<title>Third title</title>
-		<artist>Third Artist</artist>
-		<price>333</price>
-	</painting>
-</paintings>
+<Heading>Document Title</Heading>
+	<content-one><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></content-one>
+<content-two><h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rerum, sapiente odio ab, consequuntur ipsum ipsam cupiditate ex labore delectus fugit blanditiis nesciunt laudantium tenetur recusandae, totam accusamus architecto! Ipsa.</h5></content-two>
