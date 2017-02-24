@@ -1,21 +1,20 @@
 <?xml version="1.0"?>
-<paintings>
-	<painting>
-		<p class="heading_data_two">
-		<name>AAAAAAAAAAAAAThis xml data is loaded via JavaScript. Testing this page is toats radical; however, it is not time to celebrate yet. We have no beer. Never stop trying to buy beer after midnight in Texas, Buc-ee's cashiers are stupid.
-		</name>
-	</P>
-		<P>
-		<artist>BBBBBBBBBBBThis xml data is loaded via JavaScript. Testing this page is toats radical; however, it is not time to celebrate yet. We have no beer. Never stop trying to buy beer after midnight in Texas, Buc-ee's cashiers are stupid.
-		</artist>
-	</P>
-		<P>
-		<price>CCCCCCCCCCCThis xml data is loaded via JavaScript. Testing this page is toats radical; however, it is not time to celebrate yet. We have no beer. Never stop trying to buy beer after midnight in Texas, Buc-ee's cashiers are stupid.
-		</price>
-	</P>
-		<P>
-		<final>DDDDDDDDDDDDThis xml data is loaded via JavaScript. Testing this page is toats radical; however, it is not time to celebrate yet. We have no beer. Never stop trying to buy beer after midnight in Texas, Buc-ee's cashiers are stupid.
-		</final>
-	</P>
-	</painting>
-</paintings>
+<heading> Document Title 
+</heading>
+<p class="heading_data_two">
+<name>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+Lorem ipsum dolor sit amet.
+</name>
+</p>
+<P>
+<body-one>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+</body-one>
+</P>
+<P>
+<body-two>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rerum, sapiente odio ab, consequuntur ipsum ipsam cupiditate ex labore delectus fugit blanditiis nesciunt laudantium tenetur recusandae, totam accusamus architecto! Ipsa.
+</body-two>
+</P>
+<P>
+<final>End of File</final>
+</P>
