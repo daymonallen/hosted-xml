@@ -2,27 +2,27 @@
 <tutorial>
   <section1>
     <article>
-      <heading>This is the article heading for section 1
+      <heading class="sub-data">This is the article heading for section 1
       </heading>
-        <p>
+        <p class="sub-data">
         This is the tutorial content belonging to the section 1 article.
         </p>
     </article>
   </section1>
   <section2>
     <article>
-      <heading>This is the article heading for section 2
+      <heading class="sub-data">This is the article heading for section 2
       </heading>
-        <p>
+        <p class="sub-data">
         This is the tutorial content belonging to the section 2 article.
         </p>
     </article>
   </section2>
   <section3>
     <article>
-      <heading>This is the article heading for section 3
+      <heading class="sub-data">This is the article heading for section 3
       </heading>
-        <p>
+        <p class="sub-data">
         This is the tutorial content belonging to the section 3 article.
         </p>
     </article>
