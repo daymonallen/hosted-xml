@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Heading>Document Title</Heading>
+<span class="heading-one">Document Title</span>
 	<div class="left-col-half">
 	<content-one><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
 		Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></content-one>
