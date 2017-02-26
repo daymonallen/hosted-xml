@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<span class="heading-one">Hosted XML Data One | Two Column Layout</span>
+<span class="heading-one">Hosted XML Data One</span>
 <br/>
 	<div class="left-col-half">
-	<content-one>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rerum, sapiente odio ab, consequuntur ipsum ipsam cupiditate ex labore delectus fugit blanditiis nesciunt laudantium tenetur recusandae, totam accusamus architecto! Ipsa.</content-one>
+	<content-one>Lorem ipsum dolor sit am, consecr adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+Lorem ipsum dolor sit amet, consectetur adiping elit. Eligendi rerum, sapiente odio ab, consequuntur ipsum ipsam cupiditate ex labore delectus fugit blanditiis nesciunt lauda.</content-one>
 	</div>
 	<div class="right-col-half">
-<content-two>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rerum, sapiente odio ab, consequuntur ipsum ipsam cupiditate ex labore delectus fugit blanditiis nesciunt laudantium tenetur recusandae, totam accusamus architecto! Ipsa.</content-two>
+<content-two>Lorem ipsum dolor sit amet, constetur adicing elit. Fugiat quam ipsum aliquam facere quasi, nostrum maxime. Pariatur fuga dignissimos quas veniam tempora non, sunt nulla et minima eaque. Animi, ad.
+Lorem ipsum dolor sit amet, consectetur adiping elit. Eligendi rerum, sapiente odio ab, consequuntur ipsum ipsam cupiditate ex labore delectus fugit blanditiis nesciunt lauda.</content-two>
 	</div>
